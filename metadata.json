@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Master",
+  "description": "An infinite, AI-powered multiple choice quiz application that generates questions on any topic you choose using Google Gemini.",
+  "requestFramePermissions": []
+}
